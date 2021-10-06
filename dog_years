@@ -7,5 +7,5 @@ console.log(earlyYears);
 console.log(laterYears);
 
 let myAgeInDogYears = earlyYears + laterYears;    //calculating dog years
-let myName = 'BENTIL'.toLowerCase();      //convering my name to lower case.
+let myName = 'BENTIL'.toLowerCase();        //convering my name to lower case.
 console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years`);     //print output in console
